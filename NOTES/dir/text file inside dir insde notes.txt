@@ -1,7 +1,5 @@
-sdffsdfdsfsadf
-asd
-fasd
-f
-asdfsldfj;lskaf
-asdlffjsl;fasd
-asfjasldnfasd
+changes made in text file under dir inside notes
+
+changes after added to staging area
+
+now it will show itself in modified and staging area
