@@ -1,5 +1,7 @@
 changes made in text file under dir inside notes
 
-changes after added to staging area
+changes after added to staging location
 
 now it will show itself in modified and staging area
+
+$ git diff --staged => compare your last commit with staging area
